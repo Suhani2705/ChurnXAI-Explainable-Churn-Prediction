@@ -10,18 +10,15 @@ Dataset used (Kaggle):
 
 ---
 
-## 🖼️ Project Workflow (Overall Pipeline)
 
-![Overall Workflow](images/overall_workflow.jpg)
+## 📊 Dataset Overview
 
----
+The dataset contains customer demographics, billing, account activity, and usage behavior.
 
-## 🖼️ XAI Framework Used in This Project
-
-![XAI Framework](images/xai_framework.jpg)
+**Target variable:**  
+- `Churn` → 1 = customer left, 0 = customer stayed
 
 ---
-
 ## 🎯 Project Objectives
 
 - Build a reliable churn prediction model  
@@ -31,13 +28,9 @@ Dataset used (Kaggle):
 - Generate **counterfactual explanations (DiCE)** to understand what changes reduce churn  
 
 ---
+## 🖼️ Project Workflow (Overall Pipeline)
 
-## 📊 Dataset Overview
-
-The dataset contains customer demographics, billing, account activity, and usage behavior.
-
-**Target variable:**  
-- `Churn` → 1 = customer left, 0 = customer stayed
+![Overall Workflow](images/overall_workflow.jpg)
 
 ---
 
@@ -51,6 +44,14 @@ The dataset contains customer demographics, billing, account activity, and usage
 | **DiCE** | Counterfactual explanations | Actions required to reduce churn probability |
 
 ---
+
+## 🖼️ XAI Framework Used in This Project
+
+![XAI Framework](images/xai_framework.jpg)
+
+---
+
+
 
 ## ▶️ How to Run
 
