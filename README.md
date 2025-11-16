@@ -49,7 +49,12 @@ The dataset contains customer demographics, billing, account activity, and usage
 
 ## 🖼️ XAI Framework Used in This Project
 
-![XAI Framework](images/xai_framework.jpg)
+<p align="center">
+  <img src="images/xai_framework.jpg" width="55%">
+</p>
+
+---
+
 
 ---
 
