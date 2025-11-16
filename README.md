@@ -3,7 +3,7 @@
 This project builds a machine-learning model to predict **customer churn** and explains predictions using modern **Explainable AI (XAI)** techniques including SHAP, PDP, ICE, and DiCE.
 
 Full implementation:  
-➡️ **`ChurnXAI_Project.ipynb`**
+➡️ **`churn-prediction-xai.ipynb`**
 
 Dataset used (Kaggle):  
 🔗 https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset
@@ -28,7 +28,7 @@ The dataset contains customer demographics, billing, account activity, and usage
 - Generate **counterfactual explanations (DiCE)** to understand what changes reduce churn  
 
 ---
-## 🖼️ Project Workflow (Overall Pipeline)
+## 🖼️ Project Workflow 
 
 <p align="center">
   <img src="images/overall_workflow.jpg" width="45%">
@@ -54,10 +54,6 @@ The dataset contains customer demographics, billing, account activity, and usage
 </p>
 
 ---
-
-
----
-
 
 
 ## ▶️ How to Run
