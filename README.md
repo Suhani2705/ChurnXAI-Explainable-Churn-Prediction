@@ -30,7 +30,9 @@ The dataset contains customer demographics, billing, account activity, and usage
 ---
 ## 🖼️ Project Workflow (Overall Pipeline)
 
-![Overall Workflow](images/overall_workflow.jpg)
+<p align="center">
+  <img src="images/overall_workflow.jpg" width="45%">
+</p>
 
 ---
 
